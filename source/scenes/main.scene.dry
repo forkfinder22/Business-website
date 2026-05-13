@@ -1,12 +1,18 @@
 title: DEBUG
 is-hand: true
-max-cards: 6
+max-cards: 0
 
-- @party
+- @product
+- @contact
 
-@party
-title: Party Affairs
+@product
+title: Product Page
 card-image: img/Vorwaerts_nr_1.png
 is-deck: true
+go-to: root
 
-- #party_affairs
+@contact
+title: Contact Page
+card-image: img/placeholder.png
+is-deck: true
+go-to: root 
