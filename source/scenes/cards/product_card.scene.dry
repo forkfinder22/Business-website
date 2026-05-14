@@ -1,5 +1,6 @@
 title: What we sell
 new-page: true
+is-card: true
 card-image: img/img.png
 tags: product
 go-to: product_page
