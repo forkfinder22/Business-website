@@ -464,7 +464,7 @@ img {
 }
 /* mobile: move the stat box to the top if the screen is too small,
  * and reduce font size slightly. */
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 750px) {
   #page {
       position: static;
   }
