@@ -3,6 +3,8 @@ is-hand: true
 max-cards: 12
   
 - @products
+
+@products
 title: Products
 is-deck: true
 
