@@ -2,7 +2,8 @@ title: Product page
 is-hand: true
 max-cards: 12
   
-- @back: Back to main
+- @products
+title: Products
+is-deck: true
 
-@back
-go-to: main
+- #product
