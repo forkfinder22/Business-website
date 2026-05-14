@@ -2,7 +2,7 @@ title: Product page
 is-hand: true
 max-cards: 12
   
-- @back
+- @back: Back to main
 
 @back
 go-to: main
