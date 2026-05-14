@@ -10,7 +10,7 @@ title: Product Page
 card-image: img/Vorwaerts_nr_1.png
 is-deck: true
 
-- #product
+- #productpage
 
 @contact
 title: Contact Page
