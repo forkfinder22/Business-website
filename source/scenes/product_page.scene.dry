@@ -1,0 +1,8 @@
+title: Product page
+is-hand: true
+max-cards: 12
+  
+- @back
+
+@back
+go-to: main
