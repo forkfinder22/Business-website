@@ -1,4 +1,6 @@
 title: DEBUG
+is-hand: true
+max-cards: 2
 
 - @product
 - @contact
@@ -8,17 +10,11 @@ title: Product Page
 card-image: img/Vorwaerts_nr_1.png
 is-deck: true
 
-- @productpage: Product page
+- #product
 
 @contact
 title: Contact Page
 card-image: img/placeholder.png
 is-deck: true
 
-- @contactpage: Contact Page
-
-@productpage
-go-to: product_page
-
-@contactpage
-go-to: root
+- #contact
